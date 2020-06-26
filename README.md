@@ -10,7 +10,7 @@
 
 ### Technical details
 - product-store app is implemented in React using React Hooks
-- useContext hook is used to share global variable (cart) information 
+- useContext hook is used to share such as global variable (cart) information 
 - useReducer hook is used to manipulate state depending on actions 
 
 
