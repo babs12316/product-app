@@ -1,5 +1,5 @@
 ### How To run project
-1. Use 'git clone https://github.com/babs12316/pizza-store.git' to create project directory
+1. Use 'git clone https://github.com/babs12316/product-app.git' to create project directory
 2. Go to project directoy and use 'npm install' to install all node dependencies
 3. Run 'npm start' to start project,Open (http://localhost:3000) to view it in the browser.
 
