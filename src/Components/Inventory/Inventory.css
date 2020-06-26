@@ -1,0 +1,31 @@
+h2 {
+  text-align: center;
+}
+.inventory {
+  border: 1px solid #ccc;
+  width: 300px;
+  padding: 10px;
+}
+form {
+  border: 1px solid #ccc;
+  padding: 5%;
+}
+input#title {
+  margin-right: 3%;
+}
+input#title,
+input#price {
+  width: 45%;
+  margin-bottom: 10px;
+}
+input#image-url {
+  width: 96%;
+  margin-bottom: 10px;
+}
+textarea {
+  width: 97%;
+  margin-bottom: 10px;
+}
+#add-inventory {
+  width: 99%;
+}

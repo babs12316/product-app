@@ -1,0 +1,13 @@
+.inventory-list {
+  margin-top: 10px;
+}
+.inventory-list div {
+  margin-bottom: 20px;
+}
+.inventory-list span:nth-child(2) {
+  float: right;
+}
+
+.inventory-list span:nth-child(2):hover {
+  cursor: pointer;
+}
